@@ -1,0 +1,12 @@
+.body_backgorund 
+{
+    background-image:url(maxresdefault.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+ border: 10px  solid rgb(255, 51, 0);
+ background-color: chocolate;   
+}
+
